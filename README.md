@@ -1,5 +1,7 @@
 # 📊 Stock Trend Prediction Web App
 
+![out](output2.png)
+
 This web app allows users to predict stock prices using a pre-trained Long Short-Term Memory (LSTM) model. It features a sleek and user-friendly interface that provides stock data visualization and predictions.
 
 ## 📝 Table of Contents
