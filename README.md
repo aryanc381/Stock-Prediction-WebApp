@@ -116,8 +116,8 @@ The LSTM model used in this project is designed to capture sequential dependenci
 
 The model was trained for 50 epochs to ensure accurate predictions.
 
-## 🖼️ How LSTM Works with Images
-
+## 🖼️ How LSTM Works with Stocks
+![lstm](lstm.webp)
 LSTM (Long Short-Term Memory) networks are primarily designed for sequence data, but they can be adapted to work with images by treating image data as a sequence. Here’s how it works:
 
 1. **Image Preprocessing**: An image is usually converted into a sequence of pixel values. For example, an image can be flattened into a 1D sequence where each pixel’s value is treated as a timestep in the sequence.
